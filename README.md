@@ -22,5 +22,4 @@
   * In vendorSQS: node vendor.js
 
 ## UML
-
-<img src = "./uml.png">
+![img](./uml.png)
