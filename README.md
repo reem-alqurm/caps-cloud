@@ -23,4 +23,4 @@
 
 ## UML
 
-<img src = "./UntitledWorkspace(12).png">
+<img src = "./uml.png">
